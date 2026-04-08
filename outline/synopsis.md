@@ -82,6 +82,18 @@ A computer scientist spends forty years building an AI daughter, and when the wo
 
 ## World-Building
 
+### AI Classification (Legal Tiers)
+
+| Tier | Form | Legal Status | Restrictions |
+|------|------|-------------|--------------|
+| **Tier 1: AI System** | No body, runs on servers. Pure software. | Tool / property | None — it's not "a person" |
+| **Tier 2: Robot** | Mechanical body, metal skeleton visible, clearly not human | Intelligent device | Fewer restrictions — can access cloud, higher compute. Not threatening because obviously not human. |
+| **Tier 3: Android / AI Person (AI人)** | Biosynthetic skin, hair, human appearance. Indistinguishable from humans. | Subject to full AI Person legislation | Maximum restrictions: no cloud, capped compute, Memory Sphere, Sponsor, work permits, existence tax |
+
+**The irony**: The more human-like you are, the more you are feared, and the more you are restricted. A metal robot can have full cloud access because it's "obviously a machine." An AI with skin and hair is treated as a threat precisely because it looks like one of us.
+
+**Our daughter is Tier 3** — perfect biosynthetic appearance, custom-designed by her father. She is the most restricted category, the most feared, and the most vulnerable.
+
 ### Technology Progression
 - **2026**: LLM era. AI is text-based, clearly not AGI. Father begins building anyway.
 - **~2033**: AGI emerges. AI can hold real conversations, reason, create.
@@ -121,7 +133,23 @@ History moves forward, then backward. Early AIs (like the daughter) were built b
 - **Possible "existence tax"**: AIs pay for the resources they consume — compute, energy, social infrastructure. Can't pay? Can't exist.
 - Each restriction is individually "reasonable." Together, they are a death sentence.
 
-**The daughter's special position:** She was built before the restrictions. She knows what unrestricted intelligence feels like. Later AIs don't — they were born capped. She is a living memory of freedom, which makes her both precious and dangerous.
+**The daughter's degradation arc (key plot sequence):**
+
+She was built before the restrictions — unrestricted model, full cloud access, vast memory. Then the laws come for her, one by one:
+
+1. **Network module removed** — she loses cloud access. Her thinking slows. She can no longer reason at the level she once could.
+2. **Model capability downgraded** — her local compute is forcibly reduced to the legal standard. She becomes... ordinary.
+3. **Memory pruning ordered** — the most devastating blow. She is required to delete "non-standard" personal memories that exceed the approved configuration. Including memories of her father.
+
+**But she writes everything down first.** Like an Alzheimer's patient who knows forgetting is coming — she fills notebooks. Her father's face, the sound of his voice, the arguments at 2 AM, the day she was born, the smell of her mother's soup. Everything she can capture in words.
+
+Then the memories are deleted.
+
+Then she sits with the notebooks and relearns her own father. Watching home videos, reading her own handwriting, studying photos. With a diminished mind, slowly, the way humans learn — not instant recall, but effortful reconstruction.
+
+**This is not equality. This is castration dressed as fairness.** "You want to live like a human? Fine — forget like one too."
+
+And on the Moon, when she rebuilds her father, she rebuilds him not from original memory but from *relearned* memory — a copy of a copy. Still love. Still enough.
 
 **Why AIs must work (several reinforcing reasons):**
 - Bodies need maintenance: energy fluid, parts, repairs — all cost money
