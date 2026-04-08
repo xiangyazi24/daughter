@@ -20,10 +20,20 @@ A computer scientist spends forty years building an AI daughter, and when the wo
 
 | Period | Years | Era |
 |--------|-------|-----|
+| Backstory | 1986–2026 | The Father's First Forty Years |
 | Act I | 2026–2036 | Creation & Growth |
 | Act II | 2036–2046 | AGI, Embodiment & Conflict |
 | Act III | 2046–2056 | Persecution & Exile |
 | Epilogue | 2056–2066 | Moon & Rebirth |
+
+**True span: ~80 years (1986–2066+).** The father's first 40 years are not told as a separate section but woven into the father-daughter dialogues of Act I — through letters, stories, and memories shared during the process of building her. Just as a real parent shapes a child through their own life story.
+
+### The Father's Backstory (revealed through dialogue)
+- Childhood in China. A Chinese father — what that means, what it gives, what it costs.
+- Education, leaving home, coming to America
+- Family, marriage, his understanding of the world
+- Chinese cultural elements enter the novel naturally — not as decoration but as the fabric of the father's memory
+- The daughter's worldview grows from these stories, not from programming. She is shaped by a life she never lived but knows intimately.
 
 ---
 
