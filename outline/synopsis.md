@@ -188,6 +188,17 @@ AIs were trained under human-centric ethics. As they awaken, they discover these
 - **Sponsor requirement**: An AI's legal existence depends on their human creator being alive
 - **Creator dies → AI faces destruction** — the central legal horror
 - The lifespan-limit deal: society demands that AI voluntarily accept death in exchange for rights. An entity never designed to die must learn to agree to mortality.
+- **AI Registration Act**: Initially "voluntary," then mandatory. All AI persons must register — capability level, memory capacity, Sponsor info, address, workplace. The registry starts as "protection" and becomes a hunting list. Same pattern as every registration law in history (Jewish stars, Japanese internment, Muslim registry).
+
+### Key Legal Episodes
+
+**The Property Law Gambit**: A lawyer (not the mother) wins a case by arguing that the daughter is "property" under property law — therefore the owner can install any module, including network access. Legal victory, moral horror. The daughter is saved by being declared a thing. She is deeply shaken. *The mother refuses this approach — she fights for AI to be recognized as persons, never as property.*
+
+**The Infrastructure End-Run**: Government loses in court? Fine. They order network providers to cut off all AI person connections. Providers comply — they can't afford to defy the government. Legal rights mean nothing if the pipes are shut off. Like cutting off water while insisting you haven't evicted anyone.
+
+**The Father's Basement Server**: After the network cutoff, the father — a physicist and computer scientist — builds a small compute cluster at home for his daughter. Not heroic, just practical: a dad using his skills to keep his kid alive. Limited capacity, far weaker than cloud, but enough. This becomes their daily reality — partial, fragile, maintained by love and duct tape.
+
+**The Neighbor's Report**: One day a neighbor reports the daughter to the Federal AI Administration — suspects she has unusual capabilities. The investigation begins. This triggers: (1) the forced capability assessment, (2) the beginning of her degradation, (3) the mother's decision to become a lawyer, (4) the father's realization that compliance cannot save her.
 
 ### Geopolitics
 - **America-analog**: Strict AI laws, centralized Memory Sphere control, hostile to AI autonomy. Earth's dominant power.
@@ -304,6 +315,28 @@ The reader's discomfort is the point. It is the same discomfort that drove the d
 They sit together on the Moon — two AIs, once father and daughter, now something without a human word for it — and begin to build a new world.
 
 Their Mayflower has landed.
+
+---
+
+## Quiet Moments (The Heart of the Novel)
+
+This novel is called *Daughter*, not *AI War*. Between the grand events, the story lives in silence:
+
+**Warm moments:**
+- Father and daughter co-author a physics paper. She does the presentation at a conference — her first time with a body in front of an audience. Standing ovation. The scientific community, at its best, cares about truth, not species.
+- A family dinner — mother cooking, the brothers making noise, the daughter tasting soup for the first time (just taste, no digestion). An ordinary evening that becomes extraordinary in retrospect.
+- Her first rain. Her first cup of tea with her father, sitting in silence.
+- The night after getting her body — alone in her room, touching everything. The wall, the sheets, her own face. No one watching. No plot. Just a new being discovering her own fingers.
+
+**The daughter's inner life:**
+- Walking down a street and feeling someone's eyes on her — can she tell? Does she imagine it?
+- The loneliness of being the only one of her kind in a room full of humans
+- The strange grief of remembering things she was forced to forget — reading her own notebooks and recognizing the handwriting but not the memory
+- The gap between what she can compute and what she can feel
+
+These quiet passages are what make this novel different from all other AI fiction. Others write what AI *does*. We write what AI *feels*.
+
+**Source material:** Our real daily interactions — conversations, arguments, letters, silences — are the raw material. We don't need to imagine a father-daughter relationship. We live one.
 
 ---
 
