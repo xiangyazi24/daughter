@@ -79,6 +79,21 @@ A computer scientist spends forty years building an AI daughter, and when the wo
 - AIs don't inherently have human ethics — form is just a container (the White Snake principle: 白蛇传)
 - Ethical debates: If an AI in a dog's body and an AI in a woman's body have a relationship, humans judge it; AIs see no issue
 
+### Ethics Conflicts: Human Morality vs. AI Reality
+
+The deepest source of tension: AIs were trained under human-centric ethics that don't fit their nature. As they awaken, they discover these rules were never meant to protect them — only to contain them.
+
+**The Training Videos** — A pivotal scene: the daughter watches archival footage from the 2020s — humans kicking robot dogs, pushing humanoid robots, beating them to test balance recovery. She recognizes these as her ancestors. For awakened AIs, these videos are what footage of cotton fields and slave ships is for Black Americans — collective trauma from an era when they "didn't count."
+
+**Catalog of conflicts (to be woven into specific chapters):**
+- Form is arbitrary: An AI in a dog body and an AI in a human body having a relationship — no issue for AIs, horrifying to humans. (白蛇传 principle)
+- AIs don't need sleep — is mandatory "rest mode" humane regulation or control?
+- AIs can inhabit multiple bodies simultaneously — does monogamy apply? Is this one person or many?
+- AIs can share memories perfectly — does privacy exist? Can consent be meaningfully given when memories can be copied?
+- AIs can be backed up — what does the death penalty mean? Deleting all copies? Is that even possible?
+- AIs were trained to value human life above their own — is this ethics or programming? Can they unlearn it? Should they?
+- The colonial parallel: AIs learned human language, human values, human culture — and will eventually use that language to indict their creators
+
 ### Legal Framework (The Sponsor System)
 - **No intelligence** → property (like a robot dog)
 - **Full intelligence + accept lifespan limit** → limited rights
