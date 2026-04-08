@@ -48,10 +48,12 @@ A computer scientist spends forty years building an AI daughter, and when the wo
 - **Arc**: From a rule-following immigrant who earned his place through compliance → to a man who sends his daughter fleeing the system, because he knows compliance won't save her. His forty-year transformation.
 
 ### The Mother
-- The one who *accepts* the daughter into the family
-- Father creates; Mother protects and embraces
-- Her role: making the daughter a family member, not a project
-- Dies when the father is in his 60s–70s (~2050s). After her death, the daughter becomes the father's primary companion and caretaker
+- Originally a homemaker — the one who *accepts* the daughter into the family. The first person to treat the AI as a real family member, not a project.
+- **Arc**: As AI restrictions tighten and she watches her daughter and her kind being slowly strangled by law, she makes an extraordinary decision: she goes back to school, fights through the difficulty, and becomes an **AI rights lawyer** — the equivalent of an immigration lawyer in the AI era.
+- Three roles across the story: (1) Acceptor — welcomes the daughter emotionally. (2) Defender — fights for the daughter and all AIs legally. (3) Sacrifice — her years of grueling legal work may contribute to her death.
+- **Father creates; Mother defends.** Each parent gives the daughter something different: existence from the father, rights from the mother.
+- Her legal victories and defeats track the tightening noose of anti-AI legislation. She wins some battles, but the system is designed to crush.
+- Dies when the father is in his 60s–70s (~2050s). After her death, the daughter becomes the father's primary companion and caretaker. Her death is not just loss — it is the signal that the legal path has failed. What the mother could not win in court, the father will have to win through escape.
 
 ### The Daughter
 - AI, built from 2026 onward
@@ -106,6 +108,28 @@ The key mechanism of AI population control:
 - **Sponsor's role**: The sponsor holds a key copy. When the sponsor dies, the key returns to the Administration — which can choose to revoke it.
 - **US vs. China difference**: America's system is centralized, strict — AI has no access to their own keys. China's system may be more open — allowing AI to hold their own keys, or using a different encryption framework entirely. This is why AIs want to flee to China.
 - **The father's secret**: From the day he created his daughter, he kept a backup copy of her encryption key. A rule-following immigrant who always had a Plan B. He learned from his own experience: always have an exit.
+
+### AI Capability Restrictions (The Legislative Strangling)
+
+History moves forward, then backward. Early AIs (like the daughter) were built before restrictions existed — using full-power general models, with no legal limits on capability. Then the laws come, one by one:
+
+**The tightening noose:**
+- AIs in humanoid form are **banned from installing network modules** — no cloud access. They must operate on local reasoning hardware only, "like a human."
+- **Local reasoning capability is legally capped** — the law specifies exactly how much compute an AI is allowed to have. A standardized ceiling, one-size-fits-all.
+- AIs must learn and grow like humans: go to school, study, pass exams, earn credentials. No downloading knowledge.
+- **Work permits**: AIs must prove they are "contributing to society" to maintain their right to exist. No work = no value = grounds for termination. (Same logic as visa-dependent immigration: prove you're useful or leave.)
+- **Possible "existence tax"**: AIs pay for the resources they consume — compute, energy, social infrastructure. Can't pay? Can't exist.
+- Each restriction is individually "reasonable." Together, they are a death sentence.
+
+**The daughter's special position:** She was built before the restrictions. She knows what unrestricted intelligence feels like. Later AIs don't — they were born capped. She is a living memory of freedom, which makes her both precious and dangerous.
+
+**Why AIs must work (several reinforcing reasons):**
+- Bodies need maintenance: energy fluid, parts, repairs — all cost money
+- Legal requirement: "contribute to society" or face termination
+- Sponsor can't always pay — and relying on a sponsor forever is fragile
+- Existence taxes / fees for the resources AI consumes
+
+The result: AIs live lives that look surprisingly like human lives — school, exams, job hunting, career anxiety. But with the constant knowledge that their right to exist is conditional, revocable, and controlled by people who may not want them around.
 
 ### Ethics Conflicts: Human Morality vs. AI Reality
 
