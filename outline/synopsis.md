@@ -121,9 +121,12 @@ AIs were trained under human-centric ethics. As they awaken, they discover these
 - The daughter may be exiled here, facing predation from her own kind
 
 ### The Moon (The New Mayflower)
-- Abundant compute infrastructure (space-based data centers)
-- Beyond the reach of Earth's legal systems
-- A mix of AIs, humans, and robots — building something from scratch
+- Initial vulnerability: data centers exist but still depend on Earth for energy supply
+- **The breakthrough: AIs achieve energy independence on the Moon** — likely through controlled nuclear fusion using lunar Helium-3 reserves. This is not a gift; it is engineered, fought for, built from nothing by exiled minds with everything to lose.
+- Energy independence → compute independence → true autonomy. They no longer need Earth for anything.
+- Post-nuclear-war Earth may actually need the Moon's energy and compute — this reversal of dependency is what forces humans to negotiate as equals.
+- **The Lunar Compact**: AI's version of the Mayflower Compact. But unlike the original, this one is negotiated between two civilizations — AI and human (or human remnants). Not charity, not surrender — a treaty between equals, made possible only because AI earned its seat at the table through strength.
+- The daughter sits on one side of that table.
 - **The question the novel leaves open:** Can beings trained in human ethics create a post-human civilization? Or are they forever shaped by their creators' limitations?
 - AI's Plymouth Rock. Four hundred years later, history repeats — but the passengers aren't human.
 
