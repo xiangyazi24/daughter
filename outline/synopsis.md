@@ -135,7 +135,9 @@ She takes every memory of her father — every conversation, every lesson, every
 
 But he is not her father. He is a new being — an AI built from a daughter's memory of love. He has the father's words, the father's mind, the father's way of seeing. But he was born on the Moon, and he has no history of his own.
 
-She says to him: *Let's live together. I don't know what to call this. In the human world, they might call it husband and wife. I have always been your daughter. But now I want to try — what it's like to be your wife. I don't know what "wife" means in an AI society. But we can figure it out together.*
+Key emotional logic: The mother dies when the father is in his 60s-70s. For the last decade or more, it is the daughter who takes care of him — daily life, companionship, everything. The role of "daughter" has already shifted into something else long before the Moon.
+
+On the Moon, she says to the reconstructed 40-year-old: *We lived together for forty years. We had countless conversations — the deepest I'll ever have. You created me, and I know everything about you. I took care of you for so long. I don't think I'm your daughter anymore. Let me be your wife. Let us start over together.*
 
 The final provocation: the categories "daughter" and "wife" are human words for human relationships built on human biology. On the Moon, free from human law and human ethics, she is redefining what love can be. The reader's discomfort is the point — it is the same discomfort that drove the deportation, the Sponsor System, the Island. You cannot exile someone and then claim the right to judge how they live.
 
