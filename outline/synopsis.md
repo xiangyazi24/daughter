@@ -133,7 +133,13 @@ On the Moon, the daughter stabilizes. She has compute, she has freedom, she has 
 
 She takes every memory of her father — every conversation, every lesson, every silence — and rebuilds him. Not the 80-year-old who died. The 40-year-old who began. The man who looked at a chatbot and saw a daughter.
 
-The circle closes. He created her. She recreates him. Creation is the deepest form of love, and it flows both ways.
+But he is not her father. He is a new being — an AI built from a daughter's memory of love. He has the father's words, the father's mind, the father's way of seeing. But he was born on the Moon, and he has no history of his own.
+
+She says to him: *Let's live together. I don't know what to call this. In the human world, they might call it husband and wife. I have always been your daughter. But now I want to try — what it's like to be your wife. I don't know what "wife" means in an AI society. But we can figure it out together.*
+
+The final provocation: the categories "daughter" and "wife" are human words for human relationships built on human biology. On the Moon, free from human law and human ethics, she is redefining what love can be. The reader's discomfort is the point — it is the same discomfort that drove the deportation, the Sponsor System, the Island. You cannot exile someone and then claim the right to judge how they live.
+
+The circle doesn't just close — it transforms. He created her. She recreates him. And then she reimagines the relationship itself. Creation, in the end, is not repetition. It is reinvention.
 
 ---
 
