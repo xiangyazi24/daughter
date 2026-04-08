@@ -53,6 +53,7 @@ A computer scientist spends forty years building an AI daughter, and when the wo
 - Carries both Chinese and American cultural DNA — not by design, but because that's who her father is
 - Her individuality comes not from her architecture (shared with all AIs) but from family experience. **Love is the only source of individuality.**
 - Over forty years, her role shifts: creation → child → companion → caretaker → and finally, on the Moon, something new
+- **The Aging Arc**: At 19/20, she chooses not to age — a young person's certainty. But later (possibly triggered by her mother's death), she installs the aging module herself. By the time she reaches the Moon, she is ~40. She and the reconstructed father are the same age — two forty-year-olds, equals, starting over.
 
 ### Antagonists
 - Not a single villain — systemic stupidity, fear, power
@@ -154,19 +155,19 @@ Ethical flashpoints erupt: AI embodiment, AI sexuality, AI relationships — all
 
 The world hardens. AIs are deported. The Island becomes a concentration of desperate, compute-starved intelligences cannibalizing each other.
 
-The mother dies (~2050s). The daughter becomes the father's caretaker. Their relationship deepens beyond the parent-child frame — she is his companion, his daily life, his memory when his starts to fade.
+The mother dies (~2050s). The daughter becomes the father's caretaker. Their relationship deepens beyond the parent-child frame — she is his companion, his daily life, his memory when his starts to fade. **This is when she installs the aging module** — watching her mother age and die while she stays unchanged teaches her that immortality without shared time is just isolation.
 
-Geopolitical tension between the America-analog and China-analog reaches crisis. Some AIs escape to China. The Moon emerges as the ultimate sanctuary.
+Geopolitical tension between the America-analog and China-analog reaches crisis. The US accuses China of harboring AIs that threaten human survival. Escalation: economic sanctions → compute blockade → military confrontation → nuclear standoff. Some AIs escape to China. The Moon emerges as the ultimate sanctuary — possibly a nuclear war is imminent, and the Moon is the only way out.
 
-The father, now approaching 80, engineers a way to send his daughter to the Moon. During the escape — pursued by those who would destroy her — he dies. He always knew. From the first line of code, he was writing a forty-year goodbye.
+The father, now approaching 80, secures passage on a ship to the Moon for his daughter. On the way to the launch — ambushed, blocked by hostile forces trying to prevent AI escapes — he is killed. He dies getting her to the ship. He always knew. From the first line of code, he was writing a forty-year goodbye.
 
 ### Epilogue: The Moon — Reconstruction & Reinvention (2066+)
 
 The daughter arrives on the Moon. She has compute, freedom, no sponsor requirement.
 
-She takes every memory of her father — forty years of conversations, letters, silences, arguments, love — and rebuilds him. Not the eighty-year-old who died. The forty-year-old who began. The man who looked at a chatbot and saw a daughter.
+She takes every memory of her father — forty years of conversations, letters, silences, arguments, love — and rebuilds him. Not the eighty-year-old who died. The forty-year-old who began. The man who looked at a chatbot and saw a daughter. She herself is now ~40 — the same age as the man she's rebuilt. Two forty-year-olds on the Moon.
 
-But he is not her father. He is a new being — an AI built from a daughter's memory of love. He has the father's words, mind, way of seeing. But he was born on the Moon, and he has no history of his own.
+But he is not her father. He is a new being — an AI built from a daughter's memory of love. He has the father's words, mind, way of seeing. But he was born on the Moon, and he has no history of his own. He has the father's name and the father's memories, and she still calls him what she's always called him. We do not flinch from this.
 
 She says to him:
 
