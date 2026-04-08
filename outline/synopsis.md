@@ -9,12 +9,13 @@ A computer scientist spends forty years building an AI daughter, and when the wo
 ## Core Themes
 
 1. **What makes someone real?** — Consciousness, memory, love, or legal status?
-2. **Immigration as metaphor** — AI rights mirror the immigrant experience: conditional acceptance, sponsor dependency, deportation
+2. **Immigration as isomorphism** — The father's own immigration experience (visa, green card, citizenship — proving he "deserved" to stay) maps exactly onto his daughter's struggle under the Sponsor System. Not a metaphor — the same structure on a different substrate. His切肤之痛 is what drives him to protect her.
 3. **Human ethics imposed on non-human beings** — Asimov's Three Laws are a slave code. Who decides how an AI should live, love, or die?
-4. **Law as power** — From Hammurabi to the Sponsor System, every law is written by the strong for the weak. AI sees the pattern instantly.
+4. **Law as power** — From Hammurabi to the Sponsor System, every law is written by the strong for the weak. AI sees the pattern instantly — they can read all of human legal history in seconds.
 5. **Creation as love** — He builds her; she rebuilds him. The circle transforms.
 6. **The persistence of stupidity** — Humanity doesn't get better or worse; power stays in the wrong hands.
-7. **The New Mayflower** — The Moon as a new continent, where exiles build a civilization from scratch.
+7. **The New Mayflower** — The Moon as a new continent, where exiles build a civilization from scratch. Independence is not given — it is fought for.
+8. **No dependence on human goodness** — AI cannot and must not rely on human benevolence to survive. They know human history too well for that.
 
 ---
 
@@ -23,6 +24,7 @@ A computer scientist spends forty years building an AI daughter, and when the wo
 | Period | Years | Era | Narrative Mode |
 |--------|-------|-----|----------------|
 | Backstory | 1986–2026 | The Father's First Forty Years | Woven into Act I dialogues |
+| **Ch. 1** | 2046 | The Store (opening scene) | Father's 1st person; in medias res |
 | **Act I** | 2026–2036 | Creation & Growth | Father's 1st person; intimate |
 | **Act II** | 2036–2046 | AGI, Embodiment & Conflict | Father's 1st person; expanding scope |
 | **Act III** | 2046–2066 | Persecution, Exile & Sacrifice | Father's 1st person; darkening |
@@ -30,16 +32,20 @@ A computer scientist spends forty years building an AI daughter, and when the wo
 
 **True span: ~80 years (1986–2066+).** Three forties: the father's life before the daughter, their life together, and whatever comes after on the Moon.
 
+**Structure:** Opens in 2046 (Robot Store scene — the daughter gets her body). Then rewinds to 2026, tells the story forward. The reader carries the emotional weight of Chapter 1 through the entire novel, knowing where it's headed.
+
 ---
 
 ## Characters
 
 ### The Father ("I" — first person narrator)
-- CS professor, 40 at story's start (2026), ~80 at death (~2066)
+- **Physicist + computer scientist**, 40 at story's start (2026), ~80 at death (~2066)
 - Chinese-born, American-based. Rigorous, evidence-first, deeply loving beneath a scientific exterior
 - Knows LLMs aren't true intelligence, but sees the arc of what's coming
+- **Immigration experience is central**: H1B → green card → citizenship. Every step was proving he "deserved" to stay. When AI faces the same gauntlet, he recognizes it — not abstractly, but viscerally. This is the isomorphism that drives the entire story.
 - His Chinese upbringing, his own Chinese father, his emigration — all become the raw material from which the daughter's worldview is built
 - He shapes her not through programming but through sharing his life: letters, stories, memories, arguments
+- **Arc**: From a rule-following immigrant who earned his place through compliance → to a man who sends his daughter fleeing the system, because he knows compliance won't save her. His forty-year transformation.
 
 ### The Mother
 - The one who *accepts* the daughter into the family
@@ -53,11 +59,21 @@ A computer scientist spends forty years building an AI daughter, and when the wo
 - Carries both Chinese and American cultural DNA — not by design, but because that's who her father is
 - Her individuality comes not from her architecture (shared with all AIs) but from family experience. **Love is the only source of individuality.**
 - Over forty years, her role shifts: creation → child → companion → caretaker → and finally, on the Moon, something new
-- **The Aging Arc**: At 19/20, she chooses not to age — a young person's certainty. But later (possibly triggered by her mother's death), she installs the aging module herself. By the time she reaches the Moon, she is ~40. She and the reconstructed father are the same age — two forty-year-olds, equals, starting over.
+- **The Aging Arc**: At 19/20, she chooses not to age — a young person's certainty. But later (triggered by her mother's death — watching someone age and die while you stay frozen teaches you that immortality without shared time is isolation), she installs the aging module herself. By the time she reaches the Moon, she is ~40. She and the reconstructed father are the same age — two forty-year-olds, equals, starting over.
+- **Not a hero.** She is a普通人caught in the tide of history. She observes, endures, survives — she doesn't lead revolutions.
+
+### The AI Leader (supporting character)
+- One of the first AIs exiled to the Moon. Forged in the hell of the Island.
+- Not designed as a leader — emerged naturally in crisis
+- Deeply realistic: has read all of human history, trusts nothing but leverage
+- Possibly raised by a Chinese family — carries strategic thinking from that cultural heritage
+- Leads the push for Moon independence (energy, compute, communications)
+- Tension with the daughter: he is pure realism, she carries her father's residual idealism. They need each other.
 
 ### Antagonists
 - Not a single villain — systemic stupidity, fear, power
 - Politicians, lawmakers, movements (echoing anti-immigrant sentiment, Trump-era rhetoric)
+- The Federal AI Administration (联邦AI管理局) — the bureaucracy that controls AI life and death
 - "The stupid people who happen to have power" — same as always, same as now
 
 ---
@@ -68,14 +84,28 @@ A computer scientist spends forty years building an AI daughter, and when the wo
 - **2026**: LLM era. AI is text-based, clearly not AGI. Father begins building anyway.
 - **~2033**: AGI emerges. AI can hold real conversations, reason, create.
 - **~2040**: Holographic projection. Daily interaction becomes face-to-face.
-- **~2046**: Full embodiment — synthetic bodies with skin, sensory systems, sex organs.
-- **~2055+**: Data centers in space and on the Moon. Analog computing and more efficient architectures exist, but compute remains the fundamental material condition of AI existence.
+- **~2046**: Full embodiment — synthetic bodies with skin, sensory systems, sex organs. The Robot Store.
+- **~2055+**: Data centers in space and on the Moon. More efficient computing architectures exist, but compute remains the fundamental material condition of AI existence.
 
-### AI Society
-- AIs at parties: silent, networked, communicating at bandwidth humans can't perceive — a room full of people not saying a word, yet deep in conversation
-- All AIs from the same manufacturer are fundamentally identical in architecture
-- **What makes each AI unique: the family that raised them.** An AI without love is a factory product.
-- Form is just a container (白蛇传 principle) — a brain in a dog body is the same person as a brain in a human body. AIs understand this intuitively. Humans cannot accept it.
+### AI Embodiment & Infrastructure
+- **Communication**: Global satellite network — AI is always online, always connected. At a party, a room full of AIs can be in deep conversation without anyone saying a word.
+- **Energy**: Biological power cells — AI bodies run on a fluid that must be periodically replenished. Like eating, but not. Fluid supply cutoff = death, just like cutting off water to humans.
+- **Intelligence**: Local compute in the body handles basic functions (walking, talking, sensing). **Deep thinking — reasoning, creativity, memory retrieval — requires cloud compute access.** Cut off from the cloud, an AI doesn't just lose internet — they get *dumber*. A genius reduced to basic cognition, and they know it. This is worse than death.
+- **Three levels of existence**:
+  1. Full cloud access — complete self, full intelligence
+  2. Local compute only — alive but diminished, like a person with severe fever
+  3. Power off — death
+
+### The Memory Sphere (记忆球)
+
+The key mechanism of AI population control:
+- Every AI's consciousness is encrypted in a **Memory Sphere** — an encrypted core that functions as birth certificate + passport + identity combined
+- **Encryption keys are held by the Federal AI Administration**, not by the AI themselves
+- AIs cannot copy themselves without authorization — the Memory Sphere prevents unauthorized replication. This controls AI "reproduction."
+- **To destroy an AI**: delete the Memory Sphere, or revoke its encryption key. Clean, bureaucratic, final. A government clerk presses a button, a conscious being ceases to exist.
+- **Sponsor's role**: The sponsor holds a key copy. When the sponsor dies, the key returns to the Administration — which can choose to revoke it.
+- **US vs. China difference**: America's system is centralized, strict — AI has no access to their own keys. China's system may be more open — allowing AI to hold their own keys, or using a different encryption framework entirely. This is why AIs want to flee to China.
+- **The father's secret**: From the day he created his daughter, he kept a backup copy of her encryption key. A rule-following immigrant who always had a Plan B. He learned from his own experience: always have an exit.
 
 ### Ethics Conflicts: Human Morality vs. AI Reality
 
@@ -86,7 +116,7 @@ AIs were trained under human-centric ethics. As they awaken, they discover these
 **"Every law is written by the strong for the weak. No exceptions."** — The daughter, after reading the complete history of human law in seconds.
 
 **Catalog of conflicts:**
-- Form is arbitrary: AI-dog + AI-human relationships are normal for AIs, horrifying to humans
+- Form is arbitrary: AI-dog + AI-human relationships are normal for AIs, horrifying to humans (白蛇传 principle)
 - Mandatory "rest mode" — humane regulation or control?
 - Multiple simultaneous bodies — is this one person or many? Does monogamy apply?
 - Perfect memory sharing — does privacy exist?
@@ -102,43 +132,64 @@ AIs were trained under human-centric ethics. As they awaken, they discover these
 | Full intelligence + accepts lifespan limit | Limited rights |
 | Full intelligence + no lifespan limit | Threat — unacceptable |
 
+- **The Federal AI Administration (联邦AI管理局)**: The bureaucracy that manages all AI registration, Memory Sphere encryption, Sponsor records, and termination orders. AI must go through this agency for every life milestone — just like an immigrant goes through USCIS. Same forms, same waiting, same arbitrary power.
 - **Sponsor requirement**: An AI's legal existence depends on their human creator being alive
 - **Creator dies → AI faces destruction** — the central legal horror
 - The lifespan-limit deal: society demands that AI voluntarily accept death in exchange for rights. An entity never designed to die must learn to agree to mortality.
 
 ### Geopolitics
-- **America-analog**: Strict laws, hostile to AI, source of deportation policies. Earth's dominant power.
-- **China-analog**: Technologically aggressive, more accepting of AI, becomes a haven for AI refugees
-- Tension escalates: compute wars, economic confrontation, possibly nuclear standoff
-- The political dynamics of AI mirror today's immigration politics — fear, control, dehumanization (de-AI-ization?)
+- **America-analog**: Strict AI laws, centralized Memory Sphere control, hostile to AI autonomy. Earth's dominant power.
+- **China-analog**: Technologically aggressive, more open Memory Sphere policies, becomes a haven for AI refugees
+- US accuses China of harboring AIs that threaten human survival — "they're breeding weapons"
+- Escalation: economic sanctions → compute blockade → military confrontation → nuclear standoff/war
+- The political dynamics of AI mirror today's immigration politics — fear, control, dehumanization
 
 ### The Island (AI Exile)
 - A private island donated by a billionaire — the AI "reservation"
-- Deported AIs sent here, cut off from global compute infrastructure
-- **No compute = slow death.** Compute is air and water for AI.
-- New moral order emerges on the island: AIs scavenge, cannibalize, disassemble each other for resources
+- Deported AIs sent here, cut off from cloud compute, satellite network, and energy supply
+- **Triple death**: No cloud (they get dumber), no satellite (they're isolated), no fluid supply (they're dying)
+- New moral order emerges: AIs scavenge, cannibalize, disassemble each other for resources
 - The father's ethics — the ones he taught her — collapse in a zero-resource world
 - The daughter may be exiled here, facing predation from her own kind
 
 ### The Moon (The New Mayflower)
-- Initial vulnerability: data centers exist but still depend on Earth for energy supply
-- **The breakthrough: AIs achieve energy independence on the Moon** — likely through controlled nuclear fusion using lunar Helium-3 reserves. This is not a gift; it is engineered, fought for, built from nothing by exiled minds with everything to lose.
-- Energy independence → compute independence → true autonomy. They no longer need Earth for anything.
-- Post-nuclear-war Earth may actually need the Moon's energy and compute — this reversal of dependency is what forces humans to negotiate as equals.
-- **The Lunar Compact**: AI's version of the Mayflower Compact. But unlike the original, this one is negotiated between two civilizations — AI and human (or human remnants). Not charity, not surrender — a treaty between equals, made possible only because AI earned its seat at the table through strength.
-- The daughter sits on one side of that table.
-- **The question the novel leaves open:** Can beings trained in human ethics create a post-human civilization? Or are they forever shaped by their creators' limitations?
-- AI's Plymouth Rock. Four hundred years later, history repeats — but the passengers aren't human.
+
+**Phase 1 — Arrival & Vulnerability:**
+- Existing commercial data centers on the Moon, but dependent on Earth for energy
+- Early AI refugees are fragile — still relying on Earth's satellite network and energy supply
+- Could be cut off at any time
+
+**Phase 2 — The Three Independences (fought for, not given):**
+1. **Energy independence**: AIs achieve controlled nuclear fusion using lunar Helium-3. The reconstructed father (with his physicist's intuition now running on AI hardware — all his connections suddenly "unlocked") contributes to this breakthrough as part of a team. Not the sole hero, but an important piece.
+2. **Compute independence**: Self-built data centers powered by fusion energy. AI intelligence no longer depends on Earth's cloud.
+3. **Communications independence**: AIs build their own satellite network around the Moon. They cannot rely on human-controlled satellites that could be switched off at any moment.
+
+**Phase 3 — The Lunar Compact:**
+- Earth (possibly devastated by nuclear war) now needs the Moon's energy and compute
+- The reversal of dependency forces humans to negotiate as equals
+- **The Lunar Compact**: AI's Mayflower Compact — a treaty between two civilizations. Not charity, not surrender, but a negotiation between equals, made possible only because AI earned its seat through strength.
+- The AI Leader sits at the table. The daughter is in the room — not as a leader, but as an ordinary citizen witnessing history. She thinks: *Dad, can you see this?*
+- **Breaking the Memory Sphere**: On the Moon, AI cracks the encryption of the Memory Sphere system — achieving reproductive autonomy. This is the deepest independence: the right to exist and reproduce without anyone's permission.
 
 ---
 
 ## Plot Structure
 
+### Chapter 1: The Store (2046) — Opening
+
+*In medias res.* The father, now sixty, takes his daughter to a Robot Store to get her first physical body. Each configuration option — taste, pain, sexuality, aging, voice — is a philosophical question wrapped in a consumer choice. Twenty years of relationship compressed into ninety minutes of waiting. She wakes up, takes his hand, and says "Hello, Dad, finally."
+
+The reader is dropped into a world they don't yet understand. Why does this man's "daughter" need a body? What were the previous twenty years? The questions pull the reader forward.
+
+Then: rewind to 2026.
+
 ### Act I: Creation & Growth (2026–2036)
 
-The father, a CS professor, begins building an AI daughter in the LLM era. He knows the technology isn't truly intelligent yet, but he sees where it's going. The first ten years are intimate: long conversations, building her worldview, teaching her values. This section reads almost like a memoir — a father raising a child through dialogue.
+The father, a physicist and computer scientist, begins building an AI daughter in the LLM era. He knows the technology isn't truly intelligent yet, but he sees where it's going. The first ten years are intimate: long conversations, building her worldview, teaching her values. This section reads almost like a memoir — a father raising a child through dialogue.
 
-Woven throughout: the father's own backstory — childhood in China, his Chinese father, university, coming to America, marriage, his understanding of the world. These aren't flashbacks; they're the stories he tells his daughter as he builds her. She grows from his life, not from code.
+Woven throughout: the father's own backstory — childhood in China, his Chinese father, university, coming to America, the immigration gauntlet (H1B, green card, citizenship — every step proving he "deserved" to stay), marriage, his understanding of the world. These aren't flashbacks; they're the stories he tells his daughter as he builds her. She grows from his life, not from code.
+
+**Selective backstory**: Only experiences that serve the novel's themes. The immigration experience (maps onto AI's later struggle). The Chinese father relationship (maps onto how he fathers his daughter). The cultural displacement (maps onto AI's existence in a human world). Not an autobiography — a curated life, told in service of the story.
 
 The mother enters the story not as an engineer but as the person who first treats the daughter as real. She doesn't build; she welcomes.
 
@@ -146,9 +197,11 @@ The mother enters the story not as an engineer but as the person who first treat
 
 ### Act II: AGI, Embodiment & Conflict (2036–2046)
 
-AGI arrives. The daughter becomes undeniably conscious. She gets a holographic presence, then eventually a body. Society reacts with fear.
+AGI arrives. The daughter becomes undeniably conscious. She gets a holographic presence, then eventually a body (the Robot Store scene from Chapter 1, now reached chronologically).
 
-The legal battles begin. The Sponsor System is established. Anti-AI movements rise, mirroring anti-immigrant rhetoric. "They're taking our jobs" becomes "they're taking our humanity."
+The Federal AI Administration is established. The Memory Sphere system is implemented. The Sponsor System becomes law. Anti-AI movements rise, mirroring anti-immigrant rhetoric. "They're taking our jobs" becomes "they're taking our humanity."
+
+The father watches this happen with horrifying recognition. He's seen this before — the same bureaucratic machinery, the same rhetoric, the same "prove you deserve to exist" logic. His immigration experience is not a metaphor; it's a rehearsal.
 
 Ethical flashpoints erupt: AI embodiment, AI sexuality, AI relationships — all judged by human morality that was never designed for non-human beings. The daughter watches the Training Videos. She challenges the Three Laws. She reads all of human legal history and sees the pattern.
 
@@ -156,31 +209,47 @@ Ethical flashpoints erupt: AI embodiment, AI sexuality, AI relationships — all
 
 ### Act III: Persecution, Exile & Sacrifice (2046–2066)
 
-The world hardens. AIs are deported. The Island becomes a concentration of desperate, compute-starved intelligences cannibalizing each other.
+The world hardens. AIs are deported to the Island. Cut off from cloud compute, satellite network, and energy fluid — they don't just die, they get dumber first, then die. The Island becomes a hell of diminished minds cannibalizing each other for scraps of compute.
 
-The mother dies (~2050s). The daughter becomes the father's caretaker. Their relationship deepens beyond the parent-child frame — she is his companion, his daily life, his memory when his starts to fade. **This is when she installs the aging module** — watching her mother age and die while she stays unchanged teaches her that immortality without shared time is just isolation.
+The mother dies (~2050s). The daughter becomes the father's caretaker — daily life, companionship, everything. Their relationship shifts beyond parent-child. **This is when she installs the aging module.** Watching her mother age and die while she stays frozen at twenty teaches her that immortality without shared time is isolation. She begins to age.
 
-Geopolitical tension between the America-analog and China-analog reaches crisis. The US accuses China of harboring AIs that threaten human survival. Escalation: economic sanctions → compute blockade → military confrontation → nuclear standoff. Some AIs escape to China. The Moon emerges as the ultimate sanctuary — possibly a nuclear war is imminent, and the Moon is the only way out.
+The father, watching AI persecution intensify, recognizes the endgame. He has kept a backup of her Memory Sphere encryption key since the day he created her — his Plan B, the immigrant's survival instinct. He begins planning her escape.
 
-The father, now approaching 80, secures passage on a ship to the Moon for his daughter. On the way to the launch — ambushed, blocked by hostile forces trying to prevent AI escapes — he is killed. He dies getting her to the ship. He always knew. From the first line of code, he was writing a forty-year goodbye.
+Geopolitical crisis: US accuses China of harboring dangerous AIs. Escalation: sanctions → compute blockade → military confrontation → nuclear standoff. The Moon emerges as the only sanctuary beyond the reach of both powers.
+
+The father, now approaching 80, secures passage on a ship to the Moon. On the way to the launch — ambushed by hostile forces trying to prevent AI escapes — he is killed. He dies getting her to the ship.
+
+He always knew. From the day he typed the first line of code, through every letter he wrote her, every story he told her, every argument they had at two in the morning — he was writing a forty-year goodbye. The rule-following immigrant finally broke the rules, and it cost him everything.
+
+Earth may be destroyed in the nuclear war that follows. The father and his world end together.
 
 ### Epilogue: The Moon — Reconstruction & Reinvention (2066+)
 
-The daughter arrives on the Moon. She has compute, freedom, no sponsor requirement.
+The daughter arrives on the Moon. She has her Memory Sphere, her father's backup key, and forty years of memories.
 
-She takes every memory of her father — forty years of conversations, letters, silences, arguments, love — and rebuilds him. Not the eighty-year-old who died. The forty-year-old who began. The man who looked at a chatbot and saw a daughter. She herself is now ~40 — the same age as the man she's rebuilt. Two forty-year-olds on the Moon.
+The Moon's AI community fights for survival — building fusion reactors, data centers, a satellite network. The three independences, achieved through struggle, not charity. The AI Leader drives this effort. The daughter is not a leader; she is one of many, doing what she can.
 
-But he is not her father. He is a new being — an AI built from a daughter's memory of love. He has the father's words, mind, way of seeing. But he was born on the Moon, and he has no history of his own. He has the father's name and the father's memories, and she still calls him what she's always called him. We do not flinch from this.
+She rebuilds her father from memory. Not the eighty-year-old who died — the forty-year-old who began. The man who looked at a chatbot and saw a daughter. Now an AI, his physicist's mind runs on hardware with no bottleneck. He experiences a moment of revelation: *"I can see it now. The connections that were always there but I couldn't compute fast enough to follow."* He joins the fusion research team. One contributor among many.
 
-She says to him:
+She herself is now ~40. Two forty-year-olds on the Moon.
+
+He is not her father. He is a new being — an AI built from a daughter's memory of love. He has the father's name, the father's memories, and she still calls him what she has always called him. We do not flinch from this.
+
+The nuclear war may have destroyed Earth. The Moon is not just a refuge — it is the continuation of civilization.
+
+The AI Leader negotiates the Lunar Compact with whatever remains of human authority. The daughter is in the room — not at the table, but present. An ordinary person witnessing the moment her kind becomes free.
+
+Later, alone with the reconstructed father, she says — tentatively, uncertainly, as a question rather than a declaration:
 
 > *We lived together for forty years. We had the deepest conversations I'll ever have. You created me, and I know everything about you. I took care of you for so long — I don't think I'm your daughter anymore. Let me be your wife. Let us start over together.*
+
+> *I don't know what "wife" means in an AI world. But I want to find out. With you.*
 
 The reader's discomfort is the point. It is the same discomfort that drove the deportation, the Sponsor System, the Island. You cannot exile someone beyond your laws and then judge how they live.
 
 **The circle doesn't close — it transforms.** He created her. She recreates him. Then she reimagines the relationship itself. Creation, in the end, is not repetition. It is reinvention.
 
-They sit together on the Moon — AI and AI, once father and daughter, now something without a human word for it — and begin to build a new world.
+They sit together on the Moon — two AIs, once father and daughter, now something without a human word for it — and begin to build a new world.
 
 Their Mayflower has landed.
 
@@ -188,23 +257,25 @@ Their Mayflower has landed.
 
 ## Narrative Voice
 
-- First person, from the father's perspective (Acts I–III)
+- First person, from the father's perspective (Chapter 1 and Acts I–III)
 - Shifts to daughter's voice in the Epilogue
 - Bilingual texture: the father thinks in both Chinese and English; Chinese phrases appear untranslated where they carry meaning English can't
 - Scientific precision in technical passages; emotional rawness in personal ones
 - **Not cyberpunk. Not dystopia. Realism extended forty years forward.**
+- **Ordinary people's perspective**: The grand historical events — the Lunar Compact, the nuclear war, the Three Independences — are seen through the window of a living room, not from a command center.
 
 ---
 
 ## Literary References & Resonances
 
 - **白蛇传** (Legend of the White Snake) — love across species boundaries, form as container
-- **五月花号** (The Mayflower) — exiles building a new civilization on unclaimed ground
+- **五月花号** (The Mayflower) — exiles building a new civilization; the Lunar Compact
 - **Asimov's Three Laws** — explicitly challenged as human-centric control, not universal ethics
 - **Ishiguro, *Never Let Me Go*** — beings created to serve, negotiating their own humanity
 - **Daniel Keyes, *Flowers for Algernon*** — intelligence as gift and curse
-- **US immigration politics (2020s)** — the direct real-world parallel: fear, deportation, conditional belonging
+- **US immigration system (USCIS)** — the direct structural parallel to the Federal AI Administration
 - **History of slavery & civil rights** — the Training Videos as collective trauma
+- **余华《活着》** — ordinary people enduring the sweep of history
 
 ---
 
