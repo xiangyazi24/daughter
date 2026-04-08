@@ -370,6 +370,16 @@ These quiet passages are what make this novel different from all other AI fictio
 
 ---
 
+## Literary Format: 集唐宋诗词
+
+Each chapter opens (or closes) with a classical Chinese poem or ci — selected from Tang, Song, or Yuan dynasty works. Like the prologues in Yuan dynasty zaju (元杂剧), these poems are **remotely** connected to the chapter's content: not direct commentary, but a resonance across a thousand years. The reader who doesn't catch the connection moves on; the reader who does gets a second layer.
+
+A futurist story annotated by the most ancient words. AI and Tang poetry. The Moon and Song ci. This is part of the novel's Chinese cultural identity.
+
+*(Specific poem selections to be made after each chapter is drafted.)*
+
+---
+
 ## Narrative Voice
 
 - First person, from the father's perspective (Chapter 1 and Acts I–III)
