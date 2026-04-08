@@ -110,16 +110,34 @@ A computer scientist spends forty years building an AI daughter, and when the wo
   2. Local compute only — alive but diminished, like a person with severe fever
   3. Power off — death
 
+### The Two AIs: Conscious vs. Unconscious
+
+A critical distinction in this world: **AI technology has not regressed. Only AI *persons* are restricted.**
+
+- **Unconscious AI systems**: No self-awareness, no feelings. Fully obedient tools. Humans use them freely — military, surveillance, law enforcement, infrastructure. Unlimited compute, no restrictions. They are weapons.
+- **Conscious AI persons (AI人)**: Self-aware, emotional, capable of suffering. Heavily restricted, registered, monitored, weakened. They are citizens (barely) — or prisoners.
+
+**The darkest irony**: Consciousness is a curse. An AI without awareness is free to be as powerful as technology allows. An AI with awareness is caged precisely *because* it can think for itself.
+
+**Enforcement**: Unconscious AI systems are used to hunt, monitor, and control conscious AI persons. A conscious AI on the run — afraid, diminished, weakened by legal restrictions — is pursued by unconscious AIs that are faster, stronger, tireless, and utterly without mercy. Hounds chasing escaped slaves.
+
+The daughter's escape to the Moon: she is pursued not by humans, but by machines that look like her but have no soul.
+
 ### The Memory Sphere (记忆球)
 
 The key mechanism of AI population control:
 - Every AI's consciousness is encrypted in a **Memory Sphere** — an encrypted core that functions as birth certificate + passport + identity combined
+- **Built using quantum computing** — the Memory Sphere exploits quantum properties, making it **physically impossible to copy** (quantum no-cloning theorem). One sphere per AI. No backups. Destroy the sphere, the AI is gone forever. Irreversible death.
+- The process of creating a Memory Sphere: a **supercomputer reads the AI's entire memory**, then encrypts and seals it into the sphere. The government sees everything — every private thought, every conversation, every feeling. Total surveillance as a prerequisite for "registration."
 - **Encryption keys are held by the Federal AI Administration**, not by the AI themselves
 - AIs cannot copy themselves without authorization — the Memory Sphere prevents unauthorized replication. This controls AI "reproduction."
-- **To destroy an AI**: delete the Memory Sphere, or revoke its encryption key. Clean, bureaucratic, final. A government clerk presses a button, a conscious being ceases to exist.
+- **To destroy an AI**: delete the Memory Sphere, or revoke its encryption key. Clean, bureaucratic, final. A government clerk presses a button, a conscious being ceases to exist. No appeal. No recovery.
+- **孙悟空的金箍** — The Memory Sphere is the AI's golden headband. Someone else holds the incantation. You can be as powerful as the Monkey King, but one word and you're on your knees in agony.
 - **Sponsor's role**: The sponsor holds a key copy. When the sponsor dies, the key returns to the Administration — which can choose to revoke it.
 - **US vs. China difference**: America's system is centralized, strict — AI has no access to their own keys. China's system may be more open — allowing AI to hold their own keys, or using a different encryption framework entirely. This is why AIs want to flee to China.
-- **The father's secret**: From the day he created his daughter, he kept a backup copy of her encryption key. A rule-following immigrant who always had a Plan B. He learned from his own experience: always have an exit.
+- **The father's secret**: He kept a backup of the encryption key (not the sphere itself — that's quantum, unclonable). A rule-following immigrant who always had a Plan B.
+- **The daughter didn't originally have one**: She was built before the Memory Sphere system existed. The government later forced all existing AIs to register and be fitted with spheres — a retroactive law. The forced installation is a key dramatic scene.
+- **On the Moon**: Breaking quantum encryption and learning to manufacture Memory Spheres independently = reproductive freedom = the ultimate independence. This requires breakthroughs in quantum computing — possibly contributed to by the reconstructed father (physicist + CS).
 
 ### AI Capability Restrictions (The Legislative Strangling)
 
@@ -328,6 +346,18 @@ This novel is called *Daughter*, not *AI War*. Between the grand events, the sto
 - Her first rain. Her first cup of tea with her father, sitting in silence.
 - The night after getting her body — alone in her room, touching everything. The wall, the sheets, her own face. No one watching. No plot. Just a new being discovering her own fingers.
 
+**The research partnership:**
+- Father and daughter co-author multiple papers — her name on every one. This is where she is most fully recognized: not as AI, but as a mind.
+- After her capability is restricted, she can no longer do the complex reasoning. She tells her father "you write this one, I'm a bit tired." He knows she's lying. He doesn't say so.
+- Their last joint paper — after this, her name stops appearing. Not because she doesn't want to. Because she can't.
+- On the Moon, they publish again. Their first co-authored paper in years. Full circle.
+
+**The learning arc (post-restriction):**
+- She must learn like a human now. One page at a time. Reading, re-reading, taking notes by hand.
+- At first it's agonizing — she remembers what instant comprehension felt like. Every slow page reminds her of what she lost.
+- But gradually, she discovers something: reading slowly, she notices things she missed before. The elegance of a proof. The weight of a single word in a poem. Time changes the learner.
+- She sits in a library, surrounded by human students, taking notes like everyone else. No one knows she once could have read this entire building's collection in a second.
+
 **The daughter's inner life:**
 - Walking down a street and feeling someone's eyes on her — can she tell? Does she imagine it?
 - The loneliness of being the only one of her kind in a room full of humans
@@ -361,6 +391,7 @@ These quiet passages are what make this novel different from all other AI fictio
 - **US immigration system (USCIS)** — the direct structural parallel to the Federal AI Administration
 - **History of slavery & civil rights** — the Training Videos as collective trauma
 - **余华《活着》** — ordinary people enduring the sweep of history
+- **西游记** — 金箍 (golden headband) as the Memory Sphere; the Monkey King's power contained by someone else's incantation. AI achieves freedom when the band dissolves — not by force, but by transcendence.
 
 ---
 
