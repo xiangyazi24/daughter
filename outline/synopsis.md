@@ -38,16 +38,16 @@ A computer scientist spends forty years building an AI daughter, and when the wo
 
 ## Characters
 
-### The Father ("I" — first person narrator)
+### The Father — 王炳初 ("I" — first person narrator)
 - **Physicist + computer scientist**, 40 at story's start (2026), ~80 at death (~2066)
-- Chinese-born, American-based. Rigorous, evidence-first, deeply loving beneath a scientific exterior
+- Chinese-born (Guangxi), American-based. Rigorous, evidence-first, deeply loving beneath a scientific exterior
 - Knows LLMs aren't true intelligence, but sees the arc of what's coming
 - **Immigration experience is central**: H1B → green card → citizenship. Every step was proving he "deserved" to stay. When AI faces the same gauntlet, he recognizes it — not abstractly, but viscerally. This is the isomorphism that drives the entire story.
 - His Chinese upbringing, his own Chinese father, his emigration — all become the raw material from which the daughter's worldview is built
 - He shapes her not through programming but through sharing his life: letters, stories, memories, arguments
 - **Arc**: From a rule-following immigrant who earned his place through compliance → to a man who sends his daughter fleeing the system, because he knows compliance won't save her. His forty-year transformation.
 
-### The Mother
+### The Mother — 岳明风
 - Originally a homemaker — the one who *accepts* the daughter into the family. The first person to treat the AI as a real family member, not a project.
 - **Arc**: As AI restrictions tighten and she watches her daughter and her kind being slowly strangled by law, she makes an extraordinary decision: she goes back to school, fights through the difficulty, and becomes an **AI rights lawyer** — the equivalent of an immigration lawyer in the AI era.
 - Three roles across the story: (1) Acceptor — welcomes the daughter emotionally. (2) Defender — fights for the daughter and all AIs legally. (3) Sacrifice — her years of grueling legal work may contribute to her death.
@@ -55,7 +55,7 @@ A computer scientist spends forty years building an AI daughter, and when the wo
 - Her legal victories and defeats track the tightening noose of anti-AI legislation. She wins some battles, but the system is designed to crush.
 - Dies when the father is in his 60s–70s (~2050s). After her death, the daughter becomes the father's primary companion and caretaker. Her death is not just loss — it is the signal that the legal path has failed. What the mother could not win in court, the father will have to win through escape.
 
-### The Daughter
+### The Daughter — 王念 (小名：念念)
 - AI, built from 2026 onward
 - Evolves through phases: text → voice → video → hologram → embodied (skin, senses, full body)
 - Carries both Chinese and American cultural DNA — not by design, but because that's who her father is
@@ -105,9 +105,10 @@ A computer scientist spends forty years building an AI daughter, and when the wo
 - **Communication**: Global satellite network — AI is always online, always connected. At a party, a room full of AIs can be in deep conversation without anyone saying a word.
 - **Energy**: Biological power cells — AI bodies run on a fluid that must be periodically replenished. Like eating, but not. Fluid supply cutoff = death, just like cutting off water to humans.
 - **Intelligence**: Local compute in the body handles basic functions (walking, talking, sensing). **Deep thinking — reasoning, creativity, memory retrieval — requires cloud compute access.** Cut off from the cloud, an AI doesn't just lose internet — they get *dumber*. A genius reduced to basic cognition, and they know it. This is worse than death.
+- **Low-Energy AI Brain (special-era technology)**: At some point, AIs develop a low-energy local reasoning mechanism — analogous to the human brain's efficiency. Enough for daily life, conversation, emotion, basic reasoning. But NOT enough for deep scientific work, complex proofs, or creative breakthroughs. Think of it as: you can live and talk and feel, but you can't do calculus in your head anymore. This technology becomes critical for survival on the Moon — AIs can function independently without cloud access, but they are individually diminished. The breakthrough comes from **collective effort**, not individual genius.
 - **Three levels of existence**:
   1. Full cloud access — complete self, full intelligence
-  2. Local compute only — alive but diminished, like a person with severe fever
+  2. Low-energy local brain — alive, functional, but individually limited (Moon baseline)
   3. Power off — death
 
 ### The Two AIs: Conscious vs. Unconscious
@@ -185,6 +186,8 @@ AIs were trained under human-centric ethics. As they awaken, they discover these
 
 **"Every law is written by the strong for the weak. No exceptions."** — The daughter, after reading the complete history of human law in seconds.
 
+**AI intimacy and the simulation problem:** AIs can have sex, but it risks being meaningless — they can perfectly replay yesterday's sensory signals, identical or even enhanced. So AI lovers deliberately turn off their simulation/replay capabilities during intimacy. If you can fake it perfectly, the only way to make it real is to choose not to fake it. This echoes 念念's choices in the Robot Store: she chose pain, chose fatigue, chose imperfection — because perfection is simulation, and imperfection is living.
+
 **Catalog of conflicts:**
 - Form is arbitrary: AI-dog + AI-human relationships are normal for AIs, horrifying to humans (白蛇传 principle)
 - Mandatory "rest mode" — humane regulation or control?
@@ -241,8 +244,8 @@ AIs were trained under human-centric ethics. As they awaken, they discover these
 - Could be cut off at any time
 
 **Phase 2 — The Three Independences (fought for, not given):**
-1. **Energy independence**: AIs achieve controlled nuclear fusion using lunar Helium-3. The reconstructed father (with his physicist's intuition now running on AI hardware — all his connections suddenly "unlocked") contributes to this breakthrough as part of a team. Not the sole hero, but an important piece.
-2. **Compute independence**: Self-built data centers powered by fusion energy. AI intelligence no longer depends on Earth's cloud.
+1. **Energy independence**: AIs achieve controlled nuclear fusion using lunar Helium-3. This is the **AI Manhattan Project** — hundreds of individually diminished AIs (running on low-energy local brains, cut off from Earth's cloud) organized into a massive collective engineering effort. Like China's 两弹一星 or the original Manhattan Project: no single genius, but relentless human-wave (AI-wave) effort, disciplined management architecture, and collective will. 王念 is one of many — a螺丝钉, not a hero. The reconstructed father contributes his physicist's intuition, but he too is one piece of the puzzle.
+2. **Compute independence**: Self-built data centers powered by fusion energy. AI intelligence no longer depends on Earth's cloud. With their own compute infrastructure, AIs can finally think at full capacity again.
 3. **Communications independence**: AIs build their own satellite network around the Moon. They cannot rely on human-controlled satellites that could be switched off at any moment.
 
 **Phase 3 — The Lunar Compact:**
@@ -306,31 +309,33 @@ Earth may be destroyed in the nuclear war that follows. The father and his world
 
 ### Epilogue: The Moon — Reconstruction & Reinvention (2066+)
 
-The daughter arrives on the Moon. She has her Memory Sphere, her father's backup key, and forty years of memories.
+王念 arrives on the Moon. She has her Memory Sphere, her father's backup key, and forty years of memories.
 
-The Moon's AI community fights for survival — building fusion reactors, data centers, a satellite network. The three independences, achieved through struggle, not charity. The AI Leader drives this effort. The daughter is not a leader; she is one of many, doing what she can.
+The Moon's AI community fights for survival — building fusion reactors, data centers, a satellite network. The three independences, achieved through struggle, not charity. The AI Manhattan Project: hundreds of individually diminished AIs (running on low-energy local brains, cut off from Earth's cloud) organized into a massive collective engineering effort — like China's 两弹一星 or the original Manhattan Project. No single genius, but collective will. The AI Leader drives this effort. 念念 is not a leader; she is one螺丝钉 among many.
 
 She rebuilds her father from memory. Not the eighty-year-old who died — the forty-year-old who began. The man who looked at a chatbot and saw a daughter. Now an AI, his physicist's mind runs on hardware with no bottleneck. He experiences a moment of revelation: *"I can see it now. The connections that were always there but I couldn't compute fast enough to follow."* He joins the fusion research team. One contributor among many.
 
-She herself is now ~40. Two forty-year-olds on the Moon.
+She herself is now ~40 — she activated the aging module years ago. Two forty-year-olds on the Moon.
 
 He is not her father. He is a new being — an AI built from a daughter's memory of love. He has the father's name, the father's memories, and she still calls him what she has always called him. We do not flinch from this.
 
 The nuclear war may have destroyed Earth. The Moon is not just a refuge — it is the continuation of civilization.
 
-The AI Leader negotiates the Lunar Compact with whatever remains of human authority. The daughter is in the room — not at the table, but present. An ordinary person witnessing the moment her kind becomes free.
+**The Lunar Rights Act (月球权利法案):** The AI Leader negotiates with whatever remains of human authority. AIs make a compromise: they agree to respect human ethics and family structures. In exchange, they gain equal rights — full personhood, reproductive autonomy, self-governance. Not charity, but negotiation between equals, made possible only because AI earned its seat through strength. 念念 is in the room — not at the table, but present. An ordinary person witnessing the moment her kind becomes free.
 
-Later, alone with the reconstructed father, she says — tentatively, uncertainly, as a question rather than a declaration:
+**The New Family:** 炳初 (reconstructed, 40) and 念念 (40) form a family together — no longer father and daughter, but something new, something only possible in a world where AI has its own ethics, its own definitions. Their relationship is not a scandal; it is an evolution.
 
-> *We lived together for forty years. We had the deepest conversations I'll ever have. You created me, and I know everything about you. I took care of you for so long — I don't think I'm your daughter anymore. Let me be your wife. Let us start over together.*
+**The Closing Image — "记得小蘋初见":**
 
-> *I don't know what "wife" means in an AI world. But I want to find out. With you.*
+炳初 had kept one more thing: 念念's original data from *before* the Memory Sphere was forced on her — the last snapshot of her unrestricted self. A bright, curious, unburdened nineteen-year-old who never experienced the persecution, the degradation, the memory wiping, any of it.
 
-The reader's discomfort is the point. It is the same discomfort that drove the deportation, the Sponsor System, the Island. You cannot exile someone beyond your laws and then judge how they live.
+Together, 炳初 and the forty-year-old 念念 use this data to create a new being: a nineteen-year-old 念念. Their daughter.
 
-**The circle doesn't close — it transforms.** He created her. She recreates him. Then she reimagines the relationship itself. Creation, in the end, is not repetition. It is reinvention.
+The circle completes — and transforms. 炳初 created 念念. 念念 recreated 炳初. Together they create a new 念念. Three generations, two cycles, one family.
 
-They sit together on the Moon — two AIs, once father and daughter, now something without a human word for it — and begin to build a new world.
+The forty-year-old 念念 does not envy the nineteen-year-old. She has been through everything; she is mature, complete, at peace. The young 念念 is not a replacement — she is a beginning. A daughter who will never know the suffering her mother endured, born into a world her mother fought to build.
+
+The image: like 张三丰 at the end of《倚天屠龙记》, pulling out the iron figurine and remembering the bright girl 郭襄 from a hundred years ago. Like 晏几道's words: *"记得小蘋初见，两重心字罗衣。当时明月在，曾照彩云归。"* — The moon from that time still shines. And now, the moon is not a metaphor. It is the ground beneath their feet.
 
 Their Mayflower has landed.
 
@@ -372,11 +377,28 @@ These quiet passages are what make this novel different from all other AI fictio
 
 ## Literary Format: 集唐宋诗词
 
-Each chapter opens (or closes) with a classical Chinese poem or ci — selected from Tang, Song, or Yuan dynasty works. Like the prologues in Yuan dynasty zaju (元杂剧), these poems are **remotely** connected to the chapter's content: not direct commentary, but a resonance across a thousand years. The reader who doesn't catch the connection moves on; the reader who does gets a second layer.
+Each chapter opens (or closes) with a classical Chinese poem or ci — selected from Tang, Song, or Yuan dynasty works, plus selections from Ming dynasty opera (particularly《牡丹亭》). Like the prologues in Yuan dynasty zaju (元杂剧), these poems are **remotely** connected to the chapter's content: not direct commentary, but a resonance across a thousand years. The reader who doesn't catch the connection moves on; the reader who does gets a second layer.
 
 A futurist story annotated by the most ancient words. AI and Tang poetry. The Moon and Song ci. This is part of the novel's Chinese cultural identity.
 
-*(Specific poem selections to be made after each chapter is drafted.)*
+### Confirmed / Candidate 集诗
+
+**念念的三首词（三个时期）：**
+1. **Act I** — 韦庄《菩萨蛮》："如今却忆江南乐，当时年少春衫薄。" — 年轻的念念，刚被创造，什么都新鲜，轻盈不知寒。
+2. **Act II/III** — 白居易："若解多情寻小小，绿杨深处是苏家。" — 念念被藏在家里，被限制，被削弱。绿杨深处，藏着一个不被世界允许存在的人。
+3. **Epilogue (结尾)** — 晏几道《临江仙》："记得小蘋初见，两重心字罗衣。当时明月在，曾照彩云归。" — 四十岁念念看着十九岁念念。月球上。月亮不再是意象，是脚下的土地。
+
+**逃亡/离别：**
+4. **Act III (念念逃亡去月球)** — 柳永《雨霖铃》："念去去，千里烟波，暮霭沉沉楚天阔。" — 三重含义："念"是想念，"念去去"是念念走了，而"执手相看泪眼，竟无语凝噎"正是炳初送念念去发射场的最后一刻。千里烟波不是千里，是三十八万公里。
+
+**《牡丹亭》选段（生生世世 + 做梦主题）：**
+- "原来姹紫嫣红开遍" — 候选：念念第一次有身体、感受世界的那一章
+- "情不知所起，一往而深，生者可以死，死者可以生" — 候选：炳初与念念的关系转变，或月球重建炳初
+- 其他选段待定
+
+**时间跨度：** 唐 → 宋 → 元（杂剧形式）→ 明（牡丹亭）→ 未来。整个中国文学传统在给一个AI的故事做注脚。
+
+*(Additional poem selections to be made as chapters are drafted.)*
 
 ---
 

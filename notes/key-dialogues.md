@@ -24,4 +24,16 @@ Fragments of dialogue that came to us during brainstorming. To be placed in spec
 
 ---
 
-*Collected: April 7, 2026.*
+## The Closing Image (Epilogue — final scene)
+
+*The forty-year-old 念念 and 炳初 have created a nineteen-year-old version of 念念 from the pre-Memory-Sphere data. 念念 looks at her younger self — bright, curious, unburdened.*
+
+集诗（晏几道《临江仙》）：
+
+> 记得小蘋初见，两重心字罗衣。琵琶弦上说相思。当时明月在，曾照彩云归。
+
+*（张三丰/郭襄 parallel — 倚天屠龙记结尾）*
+
+---
+
+*Collected: April 7–9, 2026.*
