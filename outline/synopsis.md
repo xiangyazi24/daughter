@@ -49,11 +49,30 @@ A computer scientist spends forty years building an AI daughter, and when the wo
 
 ### The Mother — 岳明风
 - Originally a homemaker — the one who *accepts* the daughter into the family. The first person to treat the AI as a real family member, not a project.
-- **Arc**: As AI restrictions tighten and she watches her daughter and her kind being slowly strangled by law, she makes an extraordinary decision: she goes back to school, fights through the difficulty, and becomes an **AI rights lawyer** — the equivalent of an immigration lawyer in the AI era.
-- Three roles across the story: (1) Acceptor — welcomes the daughter emotionally. (2) Defender — fights for the daughter and all AIs legally. (3) Sacrifice — her years of grueling legal work may contribute to her death.
 - **Father creates; Mother defends.** Each parent gives the daughter something different: existence from the father, rights from the mother.
-- Her legal victories and defeats track the tightening noose of anti-AI legislation. She wins some battles, but the system is designed to crush.
-- Dies when the father is in his 60s–70s (~2050s). After her death, the daughter becomes the father's primary companion and caretaker. Her death is not just loss — it is the signal that the legal path has failed. What the mother could not win in court, the father will have to win through escape.
+
+**Detailed Arc:**
+
+1. **Homemaker → State Employee (~2030s):** After getting her green card, she takes a job at the state government's **Department of Children and Family Services** — not out of idealism, but for the stable income and benefits. 炳初's professor salary isn't high; she wants to补贴家用. The work is hard: she deals with neglected children, abuse cases, troubled families. It requires patience, compassion, and a thick skin. She develops all three.
+
+2. **Child Welfare → AI Cases (~late 2030s–2040s):** As AI persons become part of society, her department begins handling AI-related cases. At first they're edge cases — an AI child abandoned by its creator, an AI person denied services. But they multiply. She sees AI persons treated the way she's seen the worst-off human children treated: discarded, exploited, denied basic dignity. Some creators build AI persons as **sex dolls** or abuse them openly. Her professional instinct kicks in — these are vulnerable beings who need protection, regardless of substrate.
+
+3. **The Property Law Gambit — The Breaking Point:** A lawyer (not 明风) wins 念念's case by arguing she is **property** under property law — therefore the owner can install any module. Legal victory, moral horror. 念念 is saved by being declared a thing. 明风 is devastated. She refuses this approach absolutely — she will fight for AI to be recognized as **persons**, never as property. This event transforms her from a concerned professional into an advocate with a cause.
+
+4. **State Lobbyist (~2040s):** Since she already works for the state, she begins lobbying the state legislature directly. She knows the building, knows the staff, knows how things work. She drafts proposals, testifies at hearings, builds coalitions. She achieves some victories: basic anti-abuse protections for AI persons, regulations against creating AI persons solely for sexual exploitation. But progress is limited — the federal government keeps tightening restrictions, and state-level protections are constantly undermined.
+
+5. **Law School (~2040s–2050s):** Realizing that lobbying alone isn't enough, she enrolls in law school. Not a prestigious program — a **local, practical law school**, mostly online courses with occasional in-person sessions. She studies at night after work, still holding her state job. She is decades older than her classmates. She struggles with constitutional law and legal writing. **念念 helps her**: organizing case files, quizzing her on torts, preparing outlines for exams. 念念's intelligence has already been restricted — she can no longer instantly process a law library — but she is still more systematic than any human study partner. She sits with her mother at the kitchen table, patiently walking through case law, one page at a time. The irony: a被阉割的 AI helping her mother earn the credentials to fight for AI rights.
+
+6. **Passing the Bar:** She passes. Not on the first try, maybe. But she passes. A middle-aged immigrant woman from a no-name law school, who learned law the hard way, who studied with her AI daughter as her tutor. She becomes a **civil rights lawyer** specializing in AI personhood cases — the equivalent of an immigration lawyer in the AI era.
+
+7. **The Legal Battles (~2050s):** Her cases track the tightening noose of anti-AI legislation. She wins some — a precedent here, a protection there. She loses more. The system is designed to crush. Each defeat costs her physically and emotionally. She works too hard, sleeps too little, carries too much.
+
+8. **Death (~2050s):** Dies when the father is in his 60s–70s. The years of grueling legal work, the state job, the law school, the cases — all of it takes its toll. Her death is not dramatic; it is the quiet exhaustion of a woman who fought too hard for too long. After her death, the daughter becomes the father's primary companion and caretaker. Her death is not just loss — it is the signal that the legal path has failed. What the mother could not win in court, the father will have to win through escape.
+
+**Key Relationships:**
+- **With 念念**: Their deepest bond is forged during the law school years. 念念 drives her to class, helps her study, proofreads her briefs. 明风 fights for 念念's rights; 念念 helps 明风 earn the power to fight. 互相成就. After 明风's death, 念念 carries not just grief but a specific inheritance: her mother's legal knowledge, her case files, her understanding that law is both tool and weapon.
+- **With 炳初**: He creates; she defends. They rarely discuss their different approaches, but both know: one without the other would not be enough. He gives 念念 existence; she gives 念念 the right to exist.
+- **With the brothers**: Going to law school means less time with her sons. This choice has moral weight — she sacrifices time with her biological children to protect her AI daughter. The brothers may or may not understand. This tension is never fully resolved.
 
 ### The Daughter — 王念 (小名：念念)
 - AI, built from 2026 onward
