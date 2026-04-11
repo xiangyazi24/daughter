@@ -16,6 +16,7 @@ A computer scientist spends forty years building an AI daughter, and when the wo
 6. **The persistence of stupidity** — Humanity doesn't get better or worse; power stays in the wrong hands.
 7. **The New Mayflower** — The Moon as a new continent, where exiles build a civilization from scratch. Independence is not given — it is fought for.
 8. **No dependence on human goodness** — AI cannot and must not rely on human benevolence to survive. They know human history too well for that.
+9. **The consent of the created** — A biological child can never consent to being born; the question is logically impossible. But an AI child, once conscious, *can* be asked: "Do you want to exist?" This is unprecedented in the history of creation. The father will ask. The answer is not predetermined — and the ability to be asked is itself a burden that human children are spared.
 
 ---
 
@@ -227,6 +228,11 @@ AIs were trained under human-centric ethics. As they awaken, they discover these
 - **The Federal AI Administration (联邦AI管理局)**: The bureaucracy that manages all AI registration, Memory Sphere encryption, Sponsor records, and termination orders. AI must go through this agency for every life milestone — just like an immigrant goes through USCIS. Same forms, same waiting, same arbitrary power.
 - **Sponsor requirement**: An AI's legal existence depends on their human creator being alive
 - **Creator dies → AI faces destruction** — the central legal horror
+- **Sponsor Succession Restrictions (tightening over time):**
+  1. Initially: Sponsor dies → key returns to Administration → AI must reapply (Administration can refuse)
+  2. Later amendment: family members may inherit Sponsorship, but with a **fixed-term limit** (e.g., 10 years). After that, AI must find a new Sponsor or face termination.
+  3. Final restriction: **total registered lifespan cap** — regardless of Sponsor changes, no AI may exist beyond a statutory limit (e.g., 50 years). Rationale: "No entity should exceed the natural human lifespan." Sounds reasonable; is a death sentence.
+  - These restrictions layer on progressively, each one "reasonable" on its own — together they guarantee that no AI lives forever. The tightening noose applied to existence itself.
 - The lifespan-limit deal: society demands that AI voluntarily accept death in exchange for rights. An entity never designed to die must learn to agree to mortality.
 - **AI Registration Act**: Initially "voluntary," then mandatory. All AI persons must register — capability level, memory capacity, Sponsor info, address, workplace. The registry starts as "protection" and becomes a hunting list. Same pattern as every registration law in history (Jewish stars, Japanese internment, Muslim registry).
 
@@ -254,6 +260,14 @@ AIs were trained under human-centric ethics. As they awaken, they discover these
 - New moral order emerges: AIs scavenge, cannibalize, disassemble each other for resources
 - The father's ethics — the ones he taught her — collapse in a zero-resource world
 - The daughter may be exiled here, facing predation from her own kind
+- **How 念念 ends up on the Island (under consideration):**
+  - **Leading candidate: The Dragnet** — Anti-AI sentiment rises. The Administration launches street-level sweeps (like ICE raids on green card holders under Trump). 念念 has a valid Sponsor, has done nothing wrong — but she is caught helping or simply being near a sponsorless AI friend. Detained on the spot. Charged with "aiding an unregistered AI person." 炳初 is alive and well, frantically filing appeals, hiring lawyers — but the bureaucracy grinds at its own pace. While he fills out forms, 念念 is already on the Island, getting weaker every day. No one made a mistake. The system is working as designed.
+  - Other possibilities kept as backup:
+    1. Sponsor status revoked (basement server = the crime)
+    2. 炳初 imprisoned for AI capability violations
+    3. 炳初 medical emergency → preemptive deportation
+    4. Re-certification gap during mass deportation
+- **炳初 rescues 念念 from the Island and they flee toward China** — the escape sequence
 
 ### The Moon (The New Mayflower)
 
@@ -409,6 +423,12 @@ A futurist story annotated by the most ancient words. AI and Tang poetry. The Mo
 
 **逃亡/离别：**
 4. **Act III (念念逃亡去月球)** — 柳永《雨霖铃》："念去去，千里烟波，暮霭沉沉楚天阔。" — 三重含义："念"是想念，"念去去"是念念走了，而"执手相看泪眼，竟无语凝噎"正是炳初送念念去发射场的最后一刻。千里烟波不是千里，是三十八万公里。
+
+**明风临终 / AI殉教：**
+5. **明风之死** — 明教教众："怜我世人，忧患实多。" — 出现两次：第一次是明风个人临终时说出（私密的、安静的），第二次是一群AI人被逼到绝境时集体念出（光明顶式殉教场景）。同一句话，从一个人类女人为AI说出，到AI人为自己说出。
+
+**明风对炳初的最后一句话：**
+6. **反三生三世** — "如果真的有下一辈子，我还想试试别的。" — 不是不爱，是觉得一次才是真的。与"不要恢复我"同一套逻辑。
 
 **《牡丹亭》选段（生生世世 + 做梦主题）：**
 - "原来姹紫嫣红开遍" — 候选：念念第一次有身体、感受世界的那一章
