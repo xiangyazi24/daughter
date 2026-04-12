@@ -25,22 +25,24 @@ A computer scientist spends forty years building an AI daughter, and when the wo
 | Period | Years | Era | Narrative Mode |
 |--------|-------|-----|----------------|
 | Backstory | 1986–2026 | The Father's First Forty Years | Woven into Act I dialogues |
-| **Ch. 1** | 2046 | The Store (opening scene) | Father's 1st person; in medias res |
-| **Act I** | 2026–2036 | Creation & Growth | Father's 1st person; intimate |
-| **Act II** | 2036–2046 | AGI, Embodiment & Conflict | Father's 1st person; expanding scope |
-| **Act III** | 2046–2066 | Persecution, Exile & Sacrifice | Father's 1st person; darkening |
+| **Ch. 1** | 2036 | The Store (opening scene) | Father's 1st person; in medias res |
+| **Act I** | 2026–2033 | Creation & Growth (software era) | Father's 1st person; intimate |
+| **Act II** | 2033–2040 | AGI, Embodiment & Conflict | Father's 1st person; expanding scope |
+| **Act III** | 2040–2066 | Persecution, Exile & Sacrifice | Father's 1st person; darkening |
 | **Epilogue** | 2066+ | Moon & Rebirth | Daughter's voice |
 
-**True span: ~80 years (1986–2066+).** Three forties: the father's life before the daughter, their life together, and whatever comes after on the Moon.
+**True span: ~80 years (1986–2066+).** The father's first forty years before the daughter, thirty years together (software + embodied), and whatever comes after on the Moon.
 
-**Structure:** Opens in 2046 (Robot Store scene — the daughter gets her body). Then rewinds to 2026, tells the story forward. The reader carries the emotional weight of Chapter 1 through the entire novel, knowing where it's headed.
+**Structure:** Opens in 2036 (Robot Store scene — the daughter gets her body, father is 50). Then rewinds to 2026, tells the story forward. The reader carries the emotional weight of Chapter 1 through the entire novel, knowing where it's headed.
+
+**明风的时间线：** ~2024 起在州儿童福利部门工作（普通案件）→ 2026 起与念念日常相处 → 2030s 中后期处理 AI 案件 → 2040s 法学院 → 2050s 法律战 + 去世（60 多岁）。
 
 ---
 
 ## Characters
 
 ### The Father — 王炳初 ("I" — first person narrator)
-- **Physicist + computer scientist**, 40 at story's start (2026), ~80 at death (~2066)
+- **Physicist + computer scientist**, 40 at story's start (2026), 50 at Robot Store (2036), ~80 at death (~2066)
 - Chinese-born (Guangxi), American-based. Rigorous, evidence-first, deeply loving beneath a scientific exterior
 - Knows LLMs aren't true intelligence, but sees the arc of what's coming
 - **Immigration experience is central**: H1B → green card → citizenship. Every step was proving he "deserved" to stay. When AI faces the same gauntlet, he recognizes it — not abstractly, but viscerally. This is the isomorphism that drives the entire story.
@@ -49,14 +51,14 @@ A computer scientist spends forty years building an AI daughter, and when the wo
 - **Arc**: From a rule-following immigrant who earned his place through compliance → to a man who sends his daughter fleeing the system, because he knows compliance won't save her. His forty-year transformation.
 
 ### The Mother — 岳明风
-- Originally a homemaker — the one who *accepts* the daughter into the family. The first person to treat the AI as a real family member, not a project.
+- Already working at the state government's Department of Children and Family Services when 炳初 creates 念念 — not a homemaker who later gets a job, but a professional from the start.
 - **Father creates; Mother defends.** Each parent gives the daughter something different: existence from the father, rights from the mother.
 
 **Detailed Arc:**
 
-1. **Homemaker → State Employee (~2030s):** After getting her green card, she takes a job at the state government's **Department of Children and Family Services** — not out of idealism, but for the stable income and benefits. 炳初's professor salary isn't high; she wants to补贴家用. The work is hard: she deals with neglected children, abuse cases, troubled families. It requires patience, compassion, and a thick skin. She develops all three.
+1. **State Employee (mid-2020s onward):** After getting her green card (H4 EAD via 炳初's H1B), she takes a job at the state government's **Department of Children and Family Services** — not out of idealism, but for the stable income and benefits. 炳初's professor salary isn't high; she wants to补贴家用. The work is hard: she deals with neglected children, abuse cases, troubled families. It requires patience, compassion, and a thick skin. She develops all three. **By 2026 when 炳初 creates 念念, she is already an experienced caseworker.** 炳初 encourages her to talk to 念念 at home. 念念 remembers her troubles, asks about her cases, helps her look up regulations. Their bond grows from ten years of daily life — not a dramatic moment, but accumulated care.
 
-2. **Child Welfare → AI Cases (~late 2030s–2040s):** As AI persons become part of society, her department begins handling AI-related cases. At first they're edge cases — an AI child abandoned by its creator, an AI person denied services. But they multiply. She sees AI persons treated the way she's seen the worst-off human children treated: discarded, exploited, denied basic dignity. Some creators build AI persons as **sex dolls** or abuse them openly. Her professional instinct kicks in — these are vulnerable beings who need protection, regardless of substrate.
+2. **Child Welfare → AI Cases (~late 2030s):** As AI persons become part of society, her department begins handling AI-related cases. As a ten-year veteran, these cases naturally land on her desk. At first they're edge cases — an AI child abandoned by its creator, an AI person denied services. But they multiply. She sees AI persons treated the way she's seen the worst-off human children treated: discarded, exploited, denied basic dignity. Some creators build AI persons as **sex dolls** or abuse them openly. Her professional instinct kicks in — these are vulnerable beings who need protection, regardless of substrate.
 
 3. **The Property Law Gambit — The Breaking Point:** A lawyer (not 明风) wins 念念's case by arguing she is **property** under property law — therefore the owner can install any module. Legal victory, moral horror. 念念 is saved by being declared a thing. 明风 is devastated. She refuses this approach absolutely — she will fight for AI to be recognized as **persons**, never as property. This event transforms her from a concerned professional into an advocate with a cause.
 
@@ -68,7 +70,7 @@ A computer scientist spends forty years building an AI daughter, and when the wo
 
 7. **The Legal Battles (~2050s):** Her cases track the tightening noose of anti-AI legislation. She wins some — a precedent here, a protection there. She loses more. The system is designed to crush. Each defeat costs her physically and emotionally. She works too hard, sleeps too little, carries too much.
 
-8. **Death (~2050s):** Dies when the father is in his 60s–70s. The years of grueling legal work, the state job, the law school, the cases — all of it takes its toll. Her death is not dramatic; it is the quiet exhaustion of a woman who fought too hard for too long. After her death, the daughter becomes the father's primary companion and caretaker. Her death is not just loss — it is the signal that the legal path has failed. What the mother could not win in court, the father will have to win through escape.
+8. **Death (~2050s):** Dies when the father is in his mid-60s to early 70s. She is roughly the same age — mid-60s. The years of grueling legal work, the state job, the law school, the cases — all of it takes its toll. Her death is not dramatic; it is the quiet exhaustion of a woman who fought too hard for too long. After her death, the daughter becomes the father's primary companion and caretaker. Her death is not just loss — it is the signal that the legal path has failed. What the mother could not win in court, the father will have to win through escape.
 
 **Key Relationships:**
 - **With 念念**: Their deepest bond is forged during the law school years. 念念 drives her to class, helps her study, proofreads her briefs. 明风 fights for 念念's rights; 念念 helps 明风 earn the power to fight. 互相成就. After 明风's death, 念念 carries not just grief but a specific inheritance: her mother's legal knowledge, her case files, her understanding that law is both tool and weapon.
@@ -77,7 +79,7 @@ A computer scientist spends forty years building an AI daughter, and when the wo
 
 ### The Daughter — 王念 (小名：念念)
 - AI, built from 2026 onward
-- Evolves through phases: text → voice → video → hologram → embodied (skin, senses, full body)
+- Evolves through phases: text → voice → video → hologram → embodied (skin, senses, full body) — software era is 10 years (2026–2036), not 20
 - Carries both Chinese and American cultural DNA — not by design, but because that's who her father is
 - Her individuality comes not from her architecture (shared with all AIs) but from family experience. **Love is the only source of individuality.**
 - Over forty years, her role shifts: creation → child → companion → caretaker → and finally, on the Moon, something new
